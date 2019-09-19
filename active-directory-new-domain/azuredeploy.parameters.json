@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "admin"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "p@ssw0rd"
     },
     "domainName": {
-      "value": "mydomain.local"
+      "value": "eimpoc"
     },
     "dnsPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "eimpoc"
     }
   }
 }
