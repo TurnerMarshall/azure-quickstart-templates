@@ -57,15 +57,15 @@
     },
     "variables": {
         "virtualNetworkName": "adVNET",
-        "virtualNetworkAddressRange": "10.0.0.0/16",
+        "virtualNetworkAddressRange": "10.0.1.0/24",
         "adLBFE": "LBFE",
         "adLBBE": "LBBE",
         "adRDPNAT": "adRDP",
         "adNicName": "adNic",
-        "adNicIPAddress": "10.0.0.4",
+        "adNicIPAddress": "10.0.1.4",
         "adVMName": "DC",
         "adSubnetName": "adSubnet",
-        "adSubnetAddressPrefix": "10.0.0.0/24",
+        "adSubnetAddressPrefix": "10.0.1.0/24",
         "publicIPAddressName": "adPublicIP",
         "adAvailabilitySetName": "adAvailabiltySet",
         "adLBName": "adLoadBalancer"
